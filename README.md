@@ -2,6 +2,10 @@
 
 Console application that given an URL performs a Depth-First Search on all the URLs in the same domain and generates a report about the crawled pages.
 
+## Quick Start
+
+Install `npm` dependencies and run using `npm start <url_to_crawl>`. This tools expects one parameter to run, the URL to crawl
+
 ## Report Generated
 
 - All unique pages
